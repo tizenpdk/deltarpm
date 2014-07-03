@@ -1,0 +1,5 @@
+deltarpm (3.5.git) unstable; urgency=low
+
+  * First cut for ubuntu
+
+ -- Gui Chen <gui.chen@intel.com>  Wed, 1 Aug 2012 09:28:48 +0100
