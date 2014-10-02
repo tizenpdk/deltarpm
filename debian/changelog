@@ -1,3 +1,9 @@
+deltarpm (3.5.git-tizen20141002) unstable; urgency=low
+
+  * Change Debian packaging to non-native
+
+ -- Markus Lehtonen <markus.lehtonen@linux.intel.com>  Thu, 02 Oct 2014 16:24:52 +0300
+
 deltarpm (3.5.git) unstable; urgency=low
 
   * First cut for ubuntu
